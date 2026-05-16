@@ -17,9 +17,9 @@
 | **Title** | Damage |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 16, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/damage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Damage](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Music Rights & Licensing for Damage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/damage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
