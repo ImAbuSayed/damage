@@ -21,7 +21,7 @@
 | **Released On** | May 15, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/damage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Damage](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=5p4NvKvRreQ?https://imabusayed.github.io/damage/) |
+| **Get License** | [Obtain a Music License for Damage](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=5p4NvKvRreQ?https://imabusayed.github.io/damage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
