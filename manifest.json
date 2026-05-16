@@ -8,16 +8,16 @@
   "public_repo_url": "https://github.com/ImAbuSayed/damage",
   "gist_url": null,
   "telegram_post_url": "https://t.me/AbuSayedMusic/1524",
-  "youtube_link": null,
-  "spotify_link": null,
-  "apple_music_link": null,
-  "website_link": null,
+  "youtube_link": "https://www.youtube.com/watch?v=5p4NvKvRreQ",
+  "spotify_link": "",
+  "apple_music_link": "",
+  "website_link": "",
   "feature_image_url": "https://abusayed.com.bd/wp-content/uploads/2026/05/Damage.webp",
   "sha256_hash": "297ec6f00604fd4a740e2613e6d8fd315a3124b26be794bec7d16036b5148c02",
   "sha256_raw_hash": "f91ac08c7d48ff3a4c4ff4b9c26264348f60d0b073ffd92758ff9c6189a1fc98",
   "lyric_version": 1,
   "proof_timestamp": "2026-05-16T21:49:22.818183",
-  "song_creation_date": null,
-  "official_release_date": null,
-  "generated_at": "2026-05-16T15:51:15Z"
+  "song_creation_date": "2026-05-15",
+  "official_release_date": "2026-05-15",
+  "generated_at": "2026-05-16T15:54:42Z"
 }
